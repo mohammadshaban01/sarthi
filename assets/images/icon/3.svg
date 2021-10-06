@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+    <defs>
+        <style>
+            .prefix__cls-2{fill:#00bdf5}
+        </style>
+    </defs>
+    <g id="prefix__Group_27738" data-name="Group 27738" transform="translate(-26 -315)">
+        <g id="prefix__noun_qr_1635708" transform="translate(18.786 308)">
+            <path id="prefix__Path_28114" d="M10 10v5.375h5.375V10z" class="prefix__cls-2" data-name="Path 28114"/>
+            <path id="prefix__Path_28115" d="M10 66.667v5.375h5.375v-5.375z" class="prefix__cls-2" data-name="Path 28115" transform="translate(0 -43.614)"/>
+            <path id="prefix__Path_28116" d="M66.667 10v5.375h5.375V10z" class="prefix__cls-2" data-name="Path 28116" transform="translate(-43.614)"/>
+            <path id="prefix__Path_28117" d="M40 10v1.536h3.071v3.839h1.536V10z" class="prefix__cls-2" data-name="Path 28117" transform="translate(-23.09)"/>
+            <path id="prefix__Path_28118" d="M41.536 70.506v-3.839H40v5.375h3.071v-1.536z" class="prefix__cls-2" data-name="Path 28118" transform="translate(-23.09 -43.614)"/>
+            <path id="prefix__Rectangle_3148" d="M0 0H1.536V3.071H0z" class="prefix__cls-2" data-name="Rectangle 3148" transform="translate(26.892 16.91)"/>
+            <path id="prefix__Path_28119" d="M58.708 40h-5.375v3.071h1.536v-1.535h3.839z" class="prefix__cls-2" data-name="Path 28119" transform="translate(-33.352 -23.09)"/>
+            <path id="prefix__Rectangle_3149" d="M0 0H5.375V1.536H0z" class="prefix__cls-2" data-name="Rectangle 3149" transform="translate(13.071 19.981)"/>
+            <path id="prefix__Path_28120" d="M16.91 23.333v3.839H10v4.607h1.536v-3.071h6.91v-5.375z" class="prefix__cls-2" data-name="Path 28120" transform="translate(0 -10.262)"/>
+            <path id="prefix__Path_28121" d="M60.506 56.667a3.839 3.839 0 1 0 3.839 3.839 3.839 3.839 0 0 0-3.839-3.839zm-.271 5.533L58.2 60.166l.814-.814 1.222 1.222L62 58.809l.814.814z" class="prefix__cls-2" data-name="Path 28121" transform="translate(-35.918 -35.918)"/>
+        </g>
+    </g>
+</svg>

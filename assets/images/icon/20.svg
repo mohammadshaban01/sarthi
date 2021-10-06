@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+    <defs>
+        <style>
+            .cls-1{fill:#249550}
+        </style>
+    </defs>
+    <g id="Group_30895" transform="translate(-310 -154)">
+        <g id="Group_27720" transform="translate(-518 -190)">
+            <g id="Group_27690" transform="rotate(180 426 184)">
+                <g id="Group_60" transform="translate(.044)">
+                    <path id="Path_192" d="M11.978 24a12 12 0 1 1 11.978-12 12 12 0 0 1-11.978 12zm0-23.167A11.167 11.167 0 1 0 23.124 12 11.169 11.169 0 0 0 11.978.833z" class="cls-1"/>
+                </g>
+                <g id="Group_61" transform="translate(0 11.621)">
+                    <path id="Path_193" d="M11.964 12.379A11.978 11.978 0 0 1 0 .416a.416.416 0 1 1 .831 0 11.146 11.146 0 0 0 11.133 11.133.415.415 0 0 1 0 .831z" class="cls-1"/>
+                </g>
+            </g>
+        </g>
+        <g id="noun_tick_1296923" transform="translate(360.5 145)">
+            <g id="Group_27724" transform="translate(-45.5 18)">
+                <g id="Group_27723">
+                    <path id="Path_28168" d="M37.9 44.59a.831.831 0 0 0-1.137 1.21l3.326 3.118a.831.831 0 0 0 1.225-.1l5.82-7.483a.831.831 0 0 0-1.313-1.021l-5.261 6.764z" class="cls-1" transform="translate(-34.5 -41)"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

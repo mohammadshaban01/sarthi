@@ -1,0 +1,24 @@
+section {
+    
+    .top-bar {
+        height: 100vh;
+        display: flex;
+        flex-direction:column;
+        justify-content: space-between;
+
+        .bg-img {
+            text-align: right;
+        }
+        .logo-c {
+            text-align: center;
+        }
+        .graph {
+            text-align: center;
+        }
+        .t-r {
+            text-align: left;
+            padding-left: $base-size*5;
+        }
+
+    }
+}

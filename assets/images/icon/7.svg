@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+    <defs>
+        <style>
+            .prefix__cls-3{fill:#fff}.prefix__cls-4{stroke:none}.prefix__cls-5{fill:none}
+        </style>
+    </defs>
+    <g id="prefix__Group_28570" data-name="Group 28570" transform="translate(-26 -154)">
+        <g id="prefix__Rectangle_52" fill="#00bdf5" stroke="#00bdf5" data-name="Rectangle 52" transform="translate(30 156)">
+            <rect width="16" height="20" class="prefix__cls-4" rx="2"/>
+            <rect width="15" height="19" x=".5" y=".5" class="prefix__cls-5" rx="1.5"/>
+        </g>
+        <rect id="prefix__Rectangle_3358" width="1.5" height="9" class="prefix__cls-3" data-name="Rectangle 3358" rx=".75" transform="rotate(90 -59.75 102)"/>
+        <rect id="prefix__Rectangle_3359" width="1.5" height="10" class="prefix__cls-3" data-name="Rectangle 3359" rx=".75" transform="rotate(90 -61 104.25)"/>
+        <rect id="prefix__Rectangle_3360" width="1.5" height="9" class="prefix__cls-3" data-name="Rectangle 3360" rx=".75" transform="rotate(90 -63.25 105.5)"/>
+    </g>
+</svg>

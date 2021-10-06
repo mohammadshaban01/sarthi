@@ -1,0 +1,23 @@
+
+.offer {
+    p{
+        margin: 0;
+    }
+    .card {
+        flex-direction: row;
+        align-items: center;
+        box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
+        margin-top: $base-size*5;
+        h5, p{
+            margin: 0;
+            text-align: center;
+            font-size: $base-font
+        }
+        p{
+            font-size: $base-size*6;
+            color: $gray-500;
+            margin-top: $base-size*4;
+            margin: 0;
+        }
+    }
+}

@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="22.246" height="22.235" viewBox="0 0 22.246 22.235">
+    <defs>
+        <style>
+            .cls-2{fill:#f06a6a}
+        </style>
+    </defs>
+    <g id="Group_30984" transform="translate(-278.753 -273.5)">
+        <text id="Female" fill="#f06a6a" font-family="Roboto-Bold, Roboto" font-size="14px" font-weight="700" transform="translate(288 290)">
+            <tspan x="0" y="0">!</tspan>
+        </text>
+        <g id="rotate" transform="translate(278.753 273.367)">
+            <g id="Group_30965" transform="translate(1.738 .133)">
+                <g id="Group_30964">
+                    <g id="Group_30963">
+                        <path id="Path_32268" d="M57.251 3.391a11.13 11.13 0 0 0-13.014-2 11.184 11.184 0 0 0-2.5 1.788V.133H40v6.083h6.083V4.478H42.9a9.383 9.383 0 0 1 15.87 6.778c0 .288-.013.579-.039.863l1.731.158c.031-.337.046-.68.046-1.021a11.051 11.051 0 0 0-3.257-7.865z" class="cls-2" transform="translate(-40 -.133)"/>
+                    </g>
+                </g>
+            </g>
+            <g id="Group_30967" transform="translate(2.458 17.141)">
+                <g id="Group_30966">
+                    <path id="Path_32270" d="M57.932 391.566l-1.353 1.091a11.215 11.215 0 0 0 1.3 1.361l1.151-1.3a9.468 9.468 0 0 1-1.098-1.152z" class="cls-2" transform="translate(-56.579 -391.566)"/>
+                </g>
+            </g>
+            <g id="Group_30969" transform="translate(.63 14.376)">
+                <g id="Group_30968">
+                    <path id="Path_32271" d="M16.131 327.943l-1.639.578a11.108 11.108 0 0 0 .775 1.717l1.518-.847a9.361 9.361 0 0 1-.654-1.448z" class="cls-2" transform="translate(-14.492 -327.943)"/>
+                </g>
+            </g>
+            <g id="Group_30971" transform="translate(0 11.256)">
+                <g id="Group_30970">
+                    <path id="Path_32272" d="M1.738 256.133H0a11.232 11.232 0 0 0 .157 1.875l1.713-.291a9.48 9.48 0 0 1-.132-1.584z" class="cls-2" transform="translate(0 -256.133)"/>
+                </g>
+            </g>
+            <g id="Group_30973" transform="translate(5.268 19.238)">
+                <g id="Group_30972">
+                    <path id="Path_32273" d="M122.164 439.841l-.916 1.477a11.119 11.119 0 0 0 1.678.853l.653-1.611a9.374 9.374 0 0 1-1.415-.719z" class="cls-2" transform="translate(-121.248 -439.841)"/>
+                </g>
+            </g>
+            <g id="Group_30975" transform="translate(19.653 13.683)">
+                <g id="Group_30974">
+                    <path id="Path_32274" d="M452.861 311.981a9.352 9.352 0 0 1-.539 1.493l1.579.727a11.085 11.085 0 0 0 .639-1.772z" class="cls-2" transform="translate(-452.322 -311.981)"/>
+                </g>
+            </g>
+            <g id="Group_30977" transform="translate(15.309 18.831)">
+                <g id="Group_30976">
+                    <path id="Path_32275" d="M353.7 430.468a9.41 9.41 0 0 1-1.356.828l.776 1.555a11.155 11.155 0 0 0 1.607-.981z" class="cls-2" transform="translate(-352.341 -430.468)"/>
+                </g>
+            </g>
+            <g id="Group_30979" transform="translate(17.864 16.557)">
+                <g id="Group_30978">
+                    <path id="Path_32276" d="M412.136 378.123a9.468 9.468 0 0 1-1.006 1.23l1.248 1.21a11.208 11.208 0 0 0 1.191-1.457z" class="cls-2" transform="translate(-411.13 -378.123)"/>
+                </g>
+            </g>
+            <g id="Group_30981" transform="translate(12.28 20.244)">
+                <g id="Group_30980">
+                    <path id="Path_32277" d="M284.168 462.995a9.356 9.356 0 0 1-1.554.327l.212 1.725a11.1 11.1 0 0 0 1.843-.387z" class="cls-2" transform="translate(-282.614 -462.995)"/>
+                </g>
+            </g>
+            <g id="Group_30983" transform="translate(8.746 20.426)">
+                <g id="Group_30982">
+                    <path id="Path_32278" d="M201.65 467.185l-.37 1.7a11.161 11.161 0 0 0 1.866.243l.079-1.736a9.427 9.427 0 0 1-1.575-.207z" class="cls-2" transform="translate(-201.28 -467.185)"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

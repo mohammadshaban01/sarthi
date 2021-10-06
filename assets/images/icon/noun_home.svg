@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20.005" height="18.93" viewBox="0 0 20.005 18.93">
+    <defs>
+        <style>
+            .cls-1{fill:#c6c6c6}
+        </style>
+    </defs>
+    <g id="noun_Home_3080129" transform="translate(-22.182 -23.667)">
+        <g id="Layer_2" transform="translate(22.182 23.667)">
+            <path id="Path_1" d="M43.6 47.86a.719.719 0 0 0-.719.719v8.073H31.208v-8.073a.719.719 0 0 0-1.438 0v8.792a.719.719 0 0 0 .719.719H43.6a.719.719 0 0 0 .719-.719v-8.792a.719.719 0 0 0-.719-.719z" class="cls-1" transform="translate(-27.041 -39.16)"/>
+            <path id="Path_2" d="M41.895 30.641l-9.271-6.832a.719.719 0 0 0-.856 0l-9.292 6.832a.72.72 0 0 0 .852 1.162l8.857-6.516 8.847 6.513a.724.724 0 1 0 .863-1.162z" class="cls-1" transform="translate(-22.182 -23.667)"/>
+            <path id="Path_9" fill="none" stroke="#c6c6c6" stroke-linecap="round" d="M5.592 11.18v4.784h4.092" transform="translate(1.004 -.994)"/>
+        </g>
+    </g>
+</svg>

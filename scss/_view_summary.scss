@@ -1,0 +1,33 @@
+
+.view-summary-bg {
+    background: $gray-400;
+    height: 92vh;
+
+    .view-summary {
+        display: flex;
+        height: 90vh;
+        align-items: center;
+
+        .view-summary-inner {
+            width: 100%;
+            height: $base-size*125;
+
+            .view-summary-list {
+                display: flex;
+                align-items: center;
+                flex-direction: row;
+                align-items: center;
+                justify-content: space-between;
+                padding: $base-size*10 $base-size*10 0 $base-size*10 ;
+
+                h4 {
+                    font-size: $base-size*8;
+                    font-weight: 700;
+                }
+                & div:last-child{
+                    text-align: center;
+                }
+            }
+        }
+    }
+}

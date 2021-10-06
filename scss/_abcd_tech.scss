@@ -1,0 +1,36 @@
+.tech {
+    margin-bottom: $base-size*15;
+
+    .tech-had {
+        text-align: center;
+        p{
+            padding: $base-size*10 0 $base-size*14;
+            margin-bottom: 0;
+            font-weight: 700;
+        }
+        a{
+            font-size: $base-font;
+            font-weight: 500;
+        }
+    }
+    .card {
+        border-radius: $base-size*6;
+        box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.16);
+        margin-top: $base-size*6;
+
+        .card-body{
+            padding: $base-size*7.5;
+        }
+    }
+
+    .tech-list {
+        display: flex;
+        align-items: center;
+    
+        h4 {
+            font-size: $base-font;
+            font-weight: 700;
+            margin-bottom: 0;
+        }
+    }
+}

@@ -1,0 +1,53 @@
+.help {
+    position: relative;
+
+    .bg-black {
+        width: 100%;
+        height: 100%;
+        background: rgba(0, 0, 0, 0.5);
+        position: fixed;
+        top: 0;
+        z-index: 1;
+    }
+    .help-list{
+        width: 100%;
+        min-height: 90vh;
+        background-color: $white;
+        padding-top: $base-size*7.5;
+        // position: absolute;
+        // top: $base-size*18;
+        z-index: 2;
+
+        
+
+        h2 {
+            font-size: $base-size*9;
+            color: $secondary;
+            // padding: $base-size*12.5 0 0 0;
+            span{
+                color: $body-color;
+            }
+            &:nth-child(2){
+                text-align: center;
+            }
+        }
+
+        .help-inner {
+            display: flex;
+            margin-top: $base-size*10;
+            align-items: start;
+
+            ul {
+                margin-left: $base-size*8;
+                list-style-image: url(/assets/images/graphic/icon-8.png);
+                li{
+                    padding-top: 15px;
+                    span{
+                        margin-right: $base-size*5;
+                    }
+                }
+            }
+
+        }
+    }
+}

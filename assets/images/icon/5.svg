@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+    <defs>
+        <style>
+            .prefix__cls-2{fill:#00bdf5}
+        </style>
+    </defs>
+    <g id="prefix__Group_28568" data-name="Group 28568" transform="translate(-26 -508)">
+        <g id="prefix__Group_27743" data-name="Group 27743">
+            <g id="prefix__noun_property_2725734" transform="translate(26.867 508.494)">
+                <g id="prefix__Group_27615" data-name="Group 27615" transform="translate(2.5 2.85)">
+                    <path id="prefix__Path_28095" d="M29.019 24.536l.954-.505a3.214 3.214 0 0 1 2.04-.337l4.4.786a1.774 1.774 0 0 1 1.142.711 1.646 1.646 0 0 1 .112.187L39.854 25v-3.327L34.427 17.5 29 21.692v2.844z" class="prefix__cls-2" data-name="Path 28095" transform="translate(-24.041 -14.758)"/>
+                    <path id="prefix__Path_28096" d="M20.4 9.11l6.119-4.716 6.123 4.716a.681.681 0 0 0 .823-1.085l-2-1.535V3.926a.355.355 0 0 0-.356-.356h-.655a.355.355 0 0 0-.356.356v1.516L26.915 2.99a.7.7 0 0 0-.842 0l-6.531 5.053a.663.663 0 0 0-.262.449.692.692 0 0 0 .131.508.713.713 0 0 0 .989.11z" class="prefix__cls-2" data-name="Path 28096" transform="translate(-16.136 -2.85)"/>
+                    <path id="prefix__Path_28097" d="M2.612 72.941a.407.407 0 0 0 0 .561L5.307 76.2a.407.407 0 0 0 .561 0l1.441-1.441L4.053 71.5z" class="prefix__cls-2" data-name="Path 28097" transform="translate(-2.5 -58.653)"/>
+                    <path id="prefix__Path_28098" d="M30.108 57.015a.941.941 0 0 0-.9-.374l-2.882.487c0 .075-.019.131-.019.206a1.751 1.751 0 0 1-1.591 1.4l-.187.019a17.649 17.649 0 0 1-3.144-.056l-.842-.094a.479.479 0 1 1 .094-.954l.842.094a19.5 19.5 0 0 0 2.957.056l.187-.019a.8.8 0 0 0 .73-.636.758.758 0 0 0-.131-.6.794.794 0 0 0-.505-.337l-4.4-.767a2.275 2.275 0 0 0-1.441.225L14.8 57.82l3.406 3.406 3.668.88a2.578 2.578 0 0 0 1.89-.281l6.045-3.462a.915.915 0 0 0 .449-.6.968.968 0 0 0-.15-.748z" class="prefix__cls-2" data-name="Path 28098" transform="translate(-12.498 -45.572)"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

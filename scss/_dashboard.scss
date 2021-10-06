@@ -1,0 +1,44 @@
+.dashboard{
+    margin: 0 20px;
+    h5{
+        font-size: $base-font;
+        margin: 0;
+    }
+
+    .card{
+        margin-top: $base-size*8;
+        .card-inner {
+            display: flex;
+            align-items: center;
+            padding: $base-size*4;
+
+            img{
+                background-color: $gray-400;
+                height: $base-size*22;
+                border-radius: 50%;
+                padding: $base-size*2.5;
+            }
+        }
+    }
+}
+
+.dashb {
+    margin: 15px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+
+    .dash-inner{
+        width: 48%;
+        margin: 5px 4px;
+        border: 1px solid #ccc;
+        padding: 10px;
+    }
+}
+
+@media (max-width: 575.98px) { 
+   .dashb .dash-inner{
+        width:100%;
+    }
+ }
+    

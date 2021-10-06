@@ -1,0 +1,10 @@
+1. create folder project 
+2. npm init
+3. npm i bootstrap@next
+3. open VScode 
+4. create (index.html)
+5. create (custome.scss) and scss me koi bhi class likho aur (watch karado) {custom.css} ki file map banadega  
+6. custom.css ko index.html me link kardo
+7. boostrap link past
+
+https://app.zeplin.io/project/5e2ae32bf33c9955a076314d
